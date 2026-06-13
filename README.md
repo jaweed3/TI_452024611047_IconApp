@@ -1,12 +1,23 @@
-# Affirmations App
+# Tugas 7 - Mengubah Ikon Aplikasi
 
-Aplikasi Android menampilkan daftar afirmasi positif menggunakan **LazyColumn** dan **Card** dengan Jetpack Compose.
+Mengubah ikon peluncur (*launcher icon*) aplikasi Android menggunakan **Image Asset Studio** di Android Studio, baik versi *adaptive icon* maupun *legacy icon*, dengan **Jetpack Compose** dan **Kotlin**.
 
-Berdasarkan Android Codelab: *Membuat Daftar yang Dapat Di-scroll* (Affirmations App).
+## Yang Dilakukan
 
-## Demo
+- Mengubah ikon aplikasi menggunakan Image Asset Studio
+- Membuat *adaptive icon* (background ungu + foreground putih) untuk Android 8+
+- Membuat *legacy icon* untuk Android < 8 di setiap density (mdpi, hdpi, xhdpi, xxhdpi, xxxhdpi)
+- Build APK release dan debug
 
-![Demo](demoapp.gif)
+## Preview Ikon
+
+| Adaptive Icon | Legacy Icon |
+|:---:|:---:|
+| Background ungu + icon play putih | Background ungu + icon play putih |
+
+## Referensi
+
+Google Developer Codelab: [Mengubah Ikon Aplikasi](https://developer.android.com/codelabs/basic-android-kotlin-compose-change-app-icon)
 
 ## Identitas
 
