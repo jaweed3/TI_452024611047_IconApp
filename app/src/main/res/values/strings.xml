@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">You are capable of amazing things.</string>
+    <string name="affirmation2">Every day is a fresh start.</string>
+    <string name="affirmation3">You are enough just as you are.</string>
+    <string name="affirmation4">Believe in yourself and all that you are.</string>
+    <string name="affirmation5">Your potential is limitless.</string>
+    <string name="affirmation6">Be the change you wish to see in the world.</string>
+    <string name="affirmation7">You have the power to create your own happiness.</string>
+    <string name="affirmation8">Small steps lead to big results.</string>
+    <string name="affirmation9">You are stronger than you think.</string>
+    <string name="affirmation10">The best time to start is now.</string>
+</resources>
